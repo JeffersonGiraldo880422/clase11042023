@@ -20,4 +20,6 @@ git push: Este comando permite transmitir los commits de la branch local a el re
 
 git merge: Este comando permite fusionar la historia de la branch especificada a la branch actual.
 
-git diff: Este comando permite observar que ha sido staged pero no commited 
+git diff: Este comando permite observar que ha sido staged pero no commited.
+
+Nueva linea de prueba para probar el pull.
