@@ -25,3 +25,5 @@ git diff: Este comando permite observar que ha sido staged pero no commited.
 Nueva linea de prueba para probar el pull.
 
 Trabajando sobre branch iss53.
+
+Terminando el trabajo de la iss53.
