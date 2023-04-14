@@ -23,3 +23,5 @@ git merge: Este comando permite fusionar la historia de la branch especificada a
 git diff: Este comando permite observar que ha sido staged pero no commited.
 
 Nueva linea de prueba para probar el pull.
+
+Trabajando sobre branch iss53.
