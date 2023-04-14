@@ -27,3 +27,5 @@ Nueva linea de prueba para probar el pull.
 Branch creada para simular la resolución de un caso urgente.
 
 Branch iss53 para solucionar un problema programado
+
+Update hecho en GitHub tras creación de branches, commits en esas branches, fusion y push.
